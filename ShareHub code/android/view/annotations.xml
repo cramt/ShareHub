@@ -1,0 +1,5 @@
+<root>
+    <item name='android.entryView.View'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
